@@ -1,8 +1,8 @@
-package com.github.aistomin;
+package com.github.aistomin.declaration;
 
-import static com.github.aistomin.Test.test;
-import static com.github.aistomin.Test.CONST;
-import static com.github.aistomin.Test.stat;
+import static com.github.aistomin.declaration.Test.test;
+import static com.github.aistomin.declaration.Test.CONST;
+import static com.github.aistomin.declaration.Test.stat;
 import java.util.*;
 
 public class MyClass {

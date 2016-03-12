@@ -1,10 +1,7 @@
-package com.github.aistomin;
+package com.github.aistomin.declaration;
 
 import java.util.List;
 
-/**
- * Created by aistomin on 10/03/16.
- */
 public class Test {
 
     public final static String CONST = "const";

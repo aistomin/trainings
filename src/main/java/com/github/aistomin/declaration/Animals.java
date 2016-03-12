@@ -1,4 +1,4 @@
-package com.github.aistomin;
+package com.github.aistomin.declaration;
 
 class Dog {
 }

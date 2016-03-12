@@ -1,4 +1,4 @@
-package com.github.aistomin.local;
+package com.github.aistomin.access.local;
 
 // import com.github.aistomin.local.nested.NestedDefaultAccessClass; // is not visible
 

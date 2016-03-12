@@ -1,4 +1,4 @@
-package com.github.aistomin.nonaccess;
+package com.github.aistomin.modifiers.nonaccess;
 
 //public final abstract class FinalAbstractClass { final + abstract is impossible.
 

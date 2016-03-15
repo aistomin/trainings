@@ -1,4 +1,4 @@
-package com.github.aistomin.modifiers.access.local;
+package com.github.aistomin.modifiers.access.clazz.local;
 
 // import com.github.aistomin.local.nested.NestedDefaultAccessClass; // is not visible
 

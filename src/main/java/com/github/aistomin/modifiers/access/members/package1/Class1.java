@@ -32,4 +32,8 @@ public class Class1 extends Class2 {
         super.prot1();
         i++;
     }
+
+    void testAccessProtectedMethodAsInstanceMethod() {
+//        new Class2().prot1(); // impossible, only through inheritance.
+    }
 }

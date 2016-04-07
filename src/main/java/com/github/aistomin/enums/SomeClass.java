@@ -3,6 +3,8 @@ package com.github.aistomin.enums;
 public class SomeClass {
     public static void main(String[] args) {
 //        new Parametrised("test"); not allowed
+        System.out.println("ConstSpec.NORMAL = " + ConstSpec.NORMAL.doSomething());
+        System.out.println("ConstSpec.SPECIFIC = " + ConstSpec.SPECIFIC.doSomething());
     }
 }
 

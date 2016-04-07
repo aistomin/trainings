@@ -30,3 +30,18 @@ enum Parametrised {
         return param;
     }
 }
+
+enum ConstSpec {
+
+    NORMAL,
+    SPECIFIC {
+        @Override
+        String doSomething() {
+            return "something special";
+        }
+    }
+    ;
+    String doSomething() {
+        return "something";
+    }
+}
